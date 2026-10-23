@@ -1,0 +1,5 @@
+requests
+numpy
+opencv-python
+mss
+pillow
